@@ -1,6 +1,4 @@
-# Author:  Raymond Ma 
-# Course:  CSC 110, Section 1J
-# Program: Segregation Simulation
+#Segregation Simulation
  
 from drawingpanel import *
 from random import * 
