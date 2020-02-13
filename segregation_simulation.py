@@ -1,4 +1,3 @@
-#Raymond Ma 
 #Segregation Simulation
  
 from drawingpanel import *
